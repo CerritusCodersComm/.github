@@ -1,13 +1,14 @@
 <div align="center">
   <img src="assets/CerritusCodersBanner.png">
   <h1>Cerritus Coders</h1>
-  <h3>About Us</h3>
   <p>
     <a href="https://discord.com/invite/fKakn9kk39/">
       <img alt="Join our Discord Community" src="https://img.shields.io/discord/935188392856141855?style=for-the-badge&colorB=5865F2">
     </a>
   </p>
 </div>
+
+## About Us
 
 ### Q) What is our community?
 
