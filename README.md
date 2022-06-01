@@ -27,4 +27,4 @@ A) We aim to help folks to get opportunities by encouraging them to learn, build
  A) Our community was created on the 18th of December 2021 and we started it to help a bunch of classmates to get started with open source and project based learning. Since then we have just grown and we are really proud of our growth!
 
 #### Underneath you will find more information about the server and our community! Feel free to contact one of our staff members if you have a question after reading this! 
-[COC]() 
+[COC](https://github.com/CerritusCodersComm/CerritusCodersComm/blob/main/CodeOfConduct.md) 
